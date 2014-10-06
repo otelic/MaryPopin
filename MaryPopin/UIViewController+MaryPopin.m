@@ -27,7 +27,7 @@
 #import <objc/runtime.h>
 
 //Standard margin value on iOS
-#define kMaryPopinStandardMargin 20.0f
+#define kMaryPopinStandardMargin 0.0f
 
 CG_INLINE CGRect    BkRectCenterInRect(CGRect myRect, CGRect refRect)
 {
